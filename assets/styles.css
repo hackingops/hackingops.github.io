@@ -28,6 +28,10 @@ body {
     font-size: 1.1rem;
 }
 
+.username a{
+    color: #ff8c00;
+}
+
 .description {
     color: #cccccc;
     max-width: 600px;
