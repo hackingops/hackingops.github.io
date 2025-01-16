@@ -156,3 +156,8 @@ color: white
       padding: 15px;
   }
 }
+
+.title-section h1{
+  font-size: 50px;
+  margin-bottom: 50px;
+}
